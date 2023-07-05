@@ -11,17 +11,16 @@ import pandas as pd
 # filename = "../raw_fcs/flowrepo_covid_EU_002_flow_001/export_COVID19 samples 23_04_20_ST3_COVID19_HC_005 ST3 230420_016_Live_cells.fcs"
 # fcs_file = FlowCal.io.FCSData(filename)
 # fcs_file_sub = fcs_file[:100]
-# # View the data
+# View the data
 # print(fcs_file)
 # print(fcs_file.shape)
 # print(fcs_file_sub.shape)
 # print(fcs_file.channels)
 # print(type(fcs_file))
-#
-# # Convert the FCS data to a pandas DataFrame
+
+# Convert the FCS data to a pandas DataFrame
 # data_frame = pd.DataFrame(fcs_file)
-#
-# # View the first few rows of the DataFrame
+# View the first few rows of the DataFrame
 # print(data_frame.head())
 
 filename = "../raw_fcs/flowrepo_covid_EU_002_flow_001/export_COVID19 samples 23_04_20_ST3_COVID19_HC_005 ST3 230420_016_Live_cells.fcs"
