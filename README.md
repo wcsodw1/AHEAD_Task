@@ -1,7 +1,8 @@
 # AHEAD_Task
 The task from AHEAD tech
 
-![alt text](./data/eu_label.png)
+
+### Task1 
 ![alt text](./data/result.png)
 
 ### Bonus Question : 
