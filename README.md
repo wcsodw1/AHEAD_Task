@@ -14,6 +14,6 @@ The task from AHEAD tech
 - evaluate the performance of the model
 ![alt text](./data/result.png)
 
-### Bonus Question : 
+### Bonus Question :  (Watch detail from the Bonus Question.ipynb)
 - Below are plots of selected cell surface biomarkers of blood cell samples. Researchers are interested in picking out cells marked in yellow (accupying a high-density chunk at the bottom-right) for further analysis. How would you suggest a method to automatically identify these cells?
 ![Alt text](./data/bonus_result.png) 
