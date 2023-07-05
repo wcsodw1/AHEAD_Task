@@ -1,3 +1,4 @@
+
 # AHEAD_Task
 The task from AHEAD tech
 
@@ -9,12 +10,13 @@ The task from AHEAD tech
 - TASK: There are a group of patients who were diagnosed either COVID-19 positive (sick) or negative (healthy). Each FCS file represents the specimen collected from one patient. Build an automatic predictor using a ML model of your selection, the labels provided in the “EU_label.xlsx” as ground truth, and marker-channels with “use” = 1 in “”EU_marker_channel_mapping.xlsx” as ” as data features
 
 #### Step : 
-- Concat FCSdata with FeatureName
-- Data Analyze
-- Concat dataframe with label 
-- Label Encoding
-- Training model by using all the patients data
-- evaluate the performance of the model
+- 1.Concat FCSdata with FeatureName
+- 2.Data Analyze
+- 3.Concat dataframe with label 
+- 4.Label Encoding
+- 5.Training model by using all the patients data
+- 6.evaluate the performance of the model
+
 ![alt text](./data/result.png)
 
 ### Bonus Question :  (Watch detail from -> Bonus Question.ipynb)
